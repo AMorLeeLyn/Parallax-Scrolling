@@ -1,0 +1,22 @@
+h1{
+  font-size: 30pt;
+  text-align: center;
+  color: blue;
+  text-transform: uppercase;
+  margin: 400px;
+}
+
+h2{
+  font-size: 30pt;
+  text-align: center;
+  color: red;
+  text-transform: uppercase;
+}
+
+.para{
+  background: url("http://www.lovethispic.com/uploaded_images/119902-Pretty-Musical-Note-Necklace.jpg") 100% fixed;
+}
+
+.parainner{
+  padding:400px;
+}
